@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21a93f6c8a53c694c9a6aacaa68b9303
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: 53612b89ec8d0404783cb5776011a227, type: 3}
+  - hit: {fileID: 8300000, guid: 3f480cba2c7b9ed4eb1390c78e5d2a15, type: 3}
+  - coin: {fileID: 8300000, guid: 2a87e07a362ab0a468690ff1936639e6, type: 3}
+  - heal: {fileID: 8300000, guid: deb6a0e5672a0044781b415046520ef0, type: 3}
+  - clear: {fileID: 8300000, guid: 4a300b97c25e43948871d2d355a387bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
